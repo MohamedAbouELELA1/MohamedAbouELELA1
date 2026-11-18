@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Abouelela
+# 👋 Hi, I'm Mohamed Abou El-Ela Ragab
 
 ### 📊 Data Analyst | Python | SQL | Power BI | Tableau
 
